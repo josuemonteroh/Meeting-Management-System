@@ -1,4 +1,4 @@
-package cr.gestionreuniones.gestionreuniones;
+package cr.gestionreuniones;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
